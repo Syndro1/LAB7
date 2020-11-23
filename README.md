@@ -1,2 +1,2 @@
-# LAB7
+# NET4U LABS
 lab7
